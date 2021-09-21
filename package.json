@@ -2,18 +2,17 @@
   "name": "node-login",
   "version": "1.8.0",
   "description": "A template for quickly building login systems on top of Node.js & MongoDb",
-  "author": "Stephen Braitsch <stephen@braitsch.io>",
-  "website": {
-    "url": "https://node-login.braitsch.io"
+  
+
   },
   "private": false,
   "repository": {
     "type": "git",
-    "url": "git@github.com:braitsch/node-login.git"
+  
   },
   "license": "MIT",
   "dependencies": {
-    "@braitsch/express": "^1.1.8",
+    "@Naman/express": "^1.1.8",
     "cookie-parser": "^1.4.5",
     "emailjs": "^3.4.0",
     "moment": "^2.29.1",
